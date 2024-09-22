@@ -1,3 +1,4 @@
+![](/assets/sarah.jpg)
 **Logiciels maîtrisés : Excel, Java, Python, SQL, MATLAB, C++.**
 
 ## Formation et exepérience professsionnelle
