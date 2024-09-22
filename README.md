@@ -1,4 +1,4 @@
-/assets/IMG_20201019_093249.jpg
+(/assets/IMG_20201019_093249.jpg)
 **Logiciels maîtrisés : Excel, Java, Python, SQL, MATLAB, C++.**
 
 ## Formation et exepérience professsionnelle
