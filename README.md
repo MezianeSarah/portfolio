@@ -1,4 +1,6 @@
 ![ ](/assets/DSC_0720.jpg)
+![Ma photo de profil](https://res.cloudinary.com/MezianeSarah/image/upload/w_300/v1234567890/DSC_0720.jpg)
+
 **Logiciels maîtrisés : Excel, Java, Python, SQL, MATLAB, C++.**
 
 ## Formation et exepérience professsionnelle
