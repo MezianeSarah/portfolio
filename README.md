@@ -15,8 +15,8 @@
 **De décembre 2017 à janvier 2018**
  Société nationale SONATRACH/TRC, Bejaia, Algérie
 
-    Stage sur le thème "Gestion de projets" la planification et au suivi des activités dans le secteur énergétique
-    pétrolier en utilisant Microsoft Project.
+    Stage sur le thème "Gestion de projets" la planification et au suivi des activités 
+    dans le secteur énergétique pétrolier en utilisant Microsoft Project.
     
 ## Diplômes et parcours d'études
 
