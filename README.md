@@ -1,7 +1,14 @@
-| ![Ma photo](https://github.com/MezianeSarah/portfolio/raw/main/assets/sarah.jpg) | 
-| ## Contact
-- **Email** : jeandupont@example.com  
-- **LinkedIn** : [Sarah Meziane](https://linkedin.com/in/mezianesarah) |
+| ![Ma photo](https://github.com/MezianeSarah/portfolio/raw/main/assets/sarah.jpg) | | --- |
+|  |
+
+# Portfolio - Sarah Meziane
+
+| Contact                          | Compétences Techniques                |
+|----------------------------------|---------------------------------------|
+| **Email**: jeandupont@example.com| **Langages de Programmation**: Python, Java, C++, SQL |
+| **LinkedIn**: [Sarah Meziane](https://linkedin.com/in/mezianesarah) | **Outils**: MATLAB, Microsoft Excel, Microsoft Project |
+|                                  | **Langues Parlées**: Français, Anglais, Kabyle |
+
 
 ##  Expérience Professionnelle et  Formation 
 
