@@ -1,4 +1,5 @@
-**Logiciels maîtrisés : Excel, Java, Python, SQL, MATLAB, C++.**
+![Ma photo](https://github.com/portfolio/assets/blob/main/sarah.jpg)
+
 
 ## Formation et exepérience professsionnelle
 
@@ -37,7 +38,7 @@ Lycée Mohamad boudiaf  Béjaïa
 2014-2015
 
 
-
+**Logiciels maîtrisés : Excel, Java, Python, SQL, MATLAB, C++.**
 
 
 
