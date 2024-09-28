@@ -2,7 +2,7 @@
 | --- | --- |
 |  |  |
 | **Contact**: | **Compétences Techniques**: |
-| **Email**: jeandupont@example.com | **Langages de Programmation**: Python, Java, C++, SQL |
+| **Email**: mezianesarah111@gmail.com | **Langages de Programmation**: Python, Java, C++, SQL |
 | **LinkedIn**: [Sarah Meziane](https://linkedin.com/in/mezianesarah) | **Outils**: MATLAB, Microsoft Excel, Microsoft Project |
 |  | **Langues Parlées**: Français, Anglais, Kabyle |
 ##  Expérience Professionnelle et  Formation 
