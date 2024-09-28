@@ -42,5 +42,5 @@ Société Nationale SONATRACH/TRC, Béjaïa, Algérie
 
 ## Contact
 
-- **Email** : jeandupont@example.com  
+- **Email** : mezianesarah111@gmail.com  
 - **LinkedIn** : [Sarah Meziane](https://linkedin.com/in/mezianesarah)
