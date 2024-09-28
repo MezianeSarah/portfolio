@@ -1,10 +1,4 @@
-| ![Ma photo](https://github.com/MezianeSarah/portfolio/raw/main/assets/sarah.jpg) | **Portfolio - Sarah Meziane**   |
-| --- | --- |
-|  |  |
-| **Contact**: | **Compétences Techniques**: |
-| **Email**: mezianesarah111@gmail.com | **Langages de Programmation**: Python, Java, C++, SQL |
-| **LinkedIn**: [Sarah Meziane](https://linkedin.com/in/mezianesarah) | **Outils**: MATLAB, Microsoft Excel, Microsoft Project |
-|  | **Langues Parlées**: Français, Anglais, Kabyle |
+![Photo 1](https://github.com/MezianeSarah/portfolio/raw/main/assets/info.jpg) 
 ##  Expérience Professionnelle et  Formation 
 
 ### Expérience Professionnelle
