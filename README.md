@@ -31,13 +31,3 @@ Société Nationale SONATRACH/TRC, Béjaïa, Algérie
   Lycée Mohamed Boudiaf, Béjaïa  
   2014-2015
 
-## Compétences Techniques
-
-- **Langages de Programmation** : Python, Java, C++, SQL
-- **Outils** : MATLAB, Microsoft Excel, Microsoft Project
-- **Langues Parlées** : Français, Anglais, Kabyle
-
-## Contact
-
-- **Email** : mezianesarah111@gmail.com  
-- **LinkedIn** : [Sarah Meziane](https://linkedin.com/in/mezianesarah)
