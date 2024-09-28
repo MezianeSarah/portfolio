@@ -1,7 +1,3 @@
-![Ma photo](https://github.com/MezianeSarah/portfolio.git/assets/blob/main/sarah.jpg)
-
-# Portfolio - Sarah Meziane
-
 ## Formation et Expérience Professionnelle
 
 ### Expérience Professionnelle
