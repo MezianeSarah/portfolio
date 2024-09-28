@@ -1,4 +1,6 @@
-## Formation et Expérience Professionnelle
+
+
+##  Expérience Professionnelle et  Formation 
 
 ### Expérience Professionnelle
 
@@ -12,7 +14,7 @@ Direction de l'Éducation, Béjaïa, Algérie
 Société Nationale SONATRACH/TRC, Béjaïa, Algérie  
 - Stage sur le thème **"Gestion de projets"**, axé sur la planification et le suivi des activités dans le secteur énergétique pétrolier en utilisant Microsoft Project.
 
-## Diplômes et Parcours d'Études
+## Formation 
 
 - **Master 1 en Modélisation et Analyse Numérique**  
   Université de Montpellier, UFR des Sciences  
