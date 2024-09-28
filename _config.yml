@@ -5,30 +5,3 @@ theme: minima
 
 
 
-latex:
-  latex_documents:
-    targetname: book.tex
-
-bibtex_bibfiles:
-    - references.bib
-
-repository:
-  url                       : "https://github.com/MezianeSarah"
-
-html:
-  favicon                   : "images/NESC3505_favicon.png"  # A path to a favicon image
-  navbar_footer_text        : 'Powered by <a href="https://jupyterbook.org">Jupyter Book</a>'  # Will be displayed underneath the left navbar.
-  google_analytics_id       : G-1SNTM6T50K # A GA id that can be used to track book views.
-  home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
-  use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
-  baseurl                   : "http://mezianesarah.io"  # The base URL where your book will be hosted. Used for creating image previews and social links. 
-  use_repository_button     : true
-  use_issues_button         : true
-
-execute:
-  execute_notebooks: auto
-  allow_errors: true
-  timeout: -1
-
-only_build_toc_files: true
-
