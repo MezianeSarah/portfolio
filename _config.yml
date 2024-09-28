@@ -1,10 +1,7 @@
 title: Meziane Sarah
 logo: /assets/sarah.jpg
 show_downloads: true
-# theme: minima
- # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
-# minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+theme: minima
+ 
 
 
