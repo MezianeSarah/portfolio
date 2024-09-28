@@ -1,4 +1,4 @@
-
+![Ma photo](https://github.com/MezianeSarah/portfolio/raw/main/assets/sarah.jpg)
 
 ##  Expérience Professionnelle et  Formation 
 
