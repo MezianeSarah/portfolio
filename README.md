@@ -1,4 +1,15 @@
-![Ma photo](https://github.com/MezianeSarah/portfolio/raw/main/assets/sarah.jpg)
+| ![Ma photo](https://github.com/MezianeSarah/portfolio/raw/main/assets/sarah.jpg) | 
+| --- |
+|  |
+
+# Portfolio - Sarah Meziane
+
+## Contact
+- **Email** : jeandupont@example.com  
+- **LinkedIn** : [Sarah Meziane](https://linkedin.com/in/mezianesarah)
+
+
+
 
 ##  Expérience Professionnelle et  Formation 
 
