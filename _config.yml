@@ -1,27 +1,7 @@
 title: Meziane Sarah
 logo: /assets/sarah.jpg
 show_downloads: true
-
-contact:
-  email: mezianesarah111@gmail.com
-  linkedin: "https://linkedin.com/in/mezianesarah"
-
-competences_techniques:
-  langages_de_programmation: 
-    - Python
-    - Java
-    - C++
-    - SQL
-  outils: 
-    - MATLAB
-    - Microsoft Excel
-    - Microsoft Project
-  langues_parlees:
-    - Français
-    - Anglais
-    - Kabyle
-
-theme: minima
+theme: minimal
 
  
 
