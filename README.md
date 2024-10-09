@@ -30,3 +30,7 @@ Société Nationale SONATRACH/TRC, Béjaïa, Algérie
   Lycée Mohamed Boudiaf, Béjaïa  
   2014-2015
 
+ 
+## Projets
+
+- [Elements finis](https://github.com/MezianeSarah/Elements_finis) : Une description rapide de
