@@ -33,9 +33,10 @@ Société Nationale SONATRACH/TRC, Béjaïa, Algérie
  
 ## Projets
 
--   [probleme d optimisation](https://github.com/MezianeSarah/probleme-d-optimisation) :
+-   [problème d’optimisation d’énergie dans les réseaux de capteurs sans fil](https://github.com/MezianeSarah/probleme-d-optimisation) :
 
 ![les applications des capteurs sans fil](/assets/apppp.png)
+
 ![minimiser l'energie dans les capteurs sans fil](/assets/photo5.png)
 
 
