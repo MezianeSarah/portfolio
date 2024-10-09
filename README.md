@@ -33,7 +33,13 @@ Société Nationale SONATRACH/TRC, Béjaïa, Algérie
  
 ## Projets
 
-- [Elements finis](https://github.com/MezianeSarah/Elements_finis) :
+-   [probleme d optimisation](https://github.com/MezianeSarah/probleme-d-optimisation) :
+
+![les applications des capteurs sans fil](/assets/apppp.png)
+![minimiser l'energie dans les capteurs sans fil](/assets/photo5.png)
+
+
+-  [Elements finis](https://github.com/MezianeSarah/Elements_finis) :
   Ce projet porte sur la résolution d'un problème aux limites en utilisant les équations différentielles sur l'intervalle ouvert ]0,1[]0,1[. Nous avons discretisé le problème à l'aide de la méthode des éléments finis, en programmant des maillages uniformes et non-uniformes en Python.
 
 Nous avons prouvé que la fonction u(x)=sin⁡(πx2)u(x)=sin(πx2) était la solution exacte du système discretisé. Ce projet a renforcé notre compréhension de la méthode des éléments finis, des systèmes linéaires associés et a mis en évidence l'impact du maillage sur la précision des approximations. La programmation de ces méthodes nous a permis de développer nos compétences en analyse numérique et en développement logiciel.
