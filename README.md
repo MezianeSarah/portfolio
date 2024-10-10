@@ -1,3 +1,27 @@
+![Ma photo](https://github.com/MezianeSarah/portfolio/raw/main/assets/sarah.jpg)  
+**Portfolio - Sarah Meziane**  
+
+**Contact:**  
+**Email**: mezianesarah111@gmail.com  
+**LinkedIn**: [Sarah Meziane](https://linkedin.com/in/mezianesarah)  
+
+---
+
+**View Project in GitHub**: [Portfolio](https://github.com/MezianeSarah/portfolio)  
+**The project is maintained by**: Sarah Meziane  
+**Download ZIP file**: [Download](https://github.com/MezianeSarah/portfolio/archive/refs/heads/main.zip)  
+
+---
+
+**Compétences Techniques:**  
+**Langages de Programmation**: Python, Java, C++, SQL  
+**Outils**: MATLAB, Microsoft Excel, Microsoft Project  
+**Langues Parlées**: Français, Anglais, Kabyle  
+
+
+
+
+
 ##  Portfolio
 **Contact:**  
 **Email**: mezianesarah111@gmail.com  
@@ -12,13 +36,13 @@
 
 #### **Enseignante de Mathématiques**  
 Direction de l'Éducation, Béjaïa, Algérie  
-- Enseignante vacataire en mathématiques au lycée.
+Enseignante vacataire en mathématiques au lycée.
   Septembre 2021 - Juillet 2022
 
   
 #### **Stage Pratique**  
 Société Nationale SONATRACH/TRC, Béjaïa, Algérie  
-- Stage sur le thème **"Gestion de projets"**, axé sur la planification et le suivi des activités dans le secteur énergétique pétrolier en utilisant Microsoft Project.
+Stage sur le thème **"Gestion de projets"**, axé sur la planification et le suivi des activités dans le secteur énergétique pétrolier en utilisant Microsoft Project.
   Décembre 2017 - Janvier 2018  
 
 ## Formation 
