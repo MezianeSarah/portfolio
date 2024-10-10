@@ -1,16 +1,23 @@
-##  Expérience Professionnelle et  Formation 
+##  Portfolio
+**Contact:**  
+**Email**: mezianesarah111@gmail.com  
+**LinkedIn**: [Sarah Meziane](https://linkedin.com/in/mezianesarah)  
+
+**Compétences Techniques:**  
+**Langages de Programmation**: Python, Java, C++, SQL  
+**Outils**: MATLAB, Microsoft Excel, Microsoft Project  
+**Langues Parlées**: Français, Anglais, Kabyle  
 
 ### Expérience Professionnelle
 
 #### **Enseignante de Mathématiques**  
-**Septembre 2021 - Juillet 2022**  
 Direction de l'Éducation, Béjaïa, Algérie  
 - Enseignante vacataire en mathématiques au lycée.
-
+  Septembre 2021 - Juillet 2022  
 #### **Stage Pratique**  
-**Décembre 2017 - Janvier 2018**  
 Société Nationale SONATRACH/TRC, Béjaïa, Algérie  
 - Stage sur le thème **"Gestion de projets"**, axé sur la planification et le suivi des activités dans le secteur énergétique pétrolier en utilisant Microsoft Project.
+  Décembre 2017 - Janvier 2018  
 
 ## Formation 
 
@@ -39,7 +46,7 @@ Société Nationale SONATRACH/TRC, Béjaïa, Algérie
 ![les applications des capteurs sans fil](/assets/apppp.png)
 
       J'ai implémenté un protocole de routage optimisé en **C++** en utilisant l'algorithme de Dijkstra. Ce protocole permet de trouver le chemin avec le coût énergétique minimal entre une source et une destination, maximisant ainsi l'efficacité énergétique du réseau. Mon programme s'est révélé très performant pour améliorer la gestion des ressources énergétiques et prolonger la durée de vie des capteurs, ce qui est particulièrement utile dans des environnements où le remplacement des batteries est impossible.
-![minimiser l'energie dans les capteurs sans fil](/assets/photo5(1).png)
+![minimiser l'energie dans les capteurs sans fil](/assets/photo5.png)
 
 
 -  [Elements finis](https://github.com/MezianeSarah/Elements_finis) :
