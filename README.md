@@ -39,7 +39,7 @@ Société Nationale SONATRACH/TRC, Béjaïa, Algérie
 ![les applications des capteurs sans fil](/assets/apppp.png)
 
       J'ai implémenté un protocole de routage optimisé en **C++** en utilisant l'algorithme de Dijkstra. Ce protocole permet de trouver le chemin avec le coût énergétique minimal entre une source et une destination, maximisant ainsi l'efficacité énergétique du réseau. Mon programme s'est révélé très performant pour améliorer la gestion des ressources énergétiques et prolonger la durée de vie des capteurs, ce qui est particulièrement utile dans des environnements où le remplacement des batteries est impossible.
-![minimiser l'energie dans les capteurs sans fil](/assets/photo5.png)
+![minimiser l'energie dans les capteurs sans fil](/assets/photo5(1).png)
 
 
 -  [Elements finis](https://github.com/MezianeSarah/Elements_finis) :
