@@ -35,8 +35,9 @@ Société Nationale SONATRACH/TRC, Béjaïa, Algérie
 
 -   [problème d’optimisation d’énergie dans les réseaux de capteurs sans fil](https://github.com/MezianeSarah/probleme-d-optimisation) :
 
-            Dans le cadre de mon projet de Master 2 en **Recherche Opérationnelle**, j'ai étudié l'optimisation de la consommation d'énergie dans les réseaux de capteurs sans fil (RCSF). Ces réseaux jouent un rôle crucial dans de nombreux domaines, tels que la surveillance militaire, les applications médicales, la sécurité des infrastructures et la gestion environnementale. Grâce à leur capacité à surveiller des environnements distants ou inaccessibles, ils sont devenus essentiels pour le suivi en temps réel et la collecte de données.
+      Dans le cadre de mon projet de Master 2 en **Recherche Opérationnelle**, j'ai étudié l'optimisation de la consommation d'énergie dans les réseaux de capteurs sans fil (RCSF). Ces réseaux jouent un rôle crucial dans de nombreux domaines, tels que la surveillance militaire, les applications médicales, la sécurité des infrastructures et la gestion environnementale. Grâce à leur capacité à surveiller des environnements distants ou inaccessibles, ils sont devenus essentiels pour le suivi en temps réel et la collecte de données.
 ![les applications des capteurs sans fil](/assets/apppp.png)
+
       J'ai implémenté un protocole de routage optimisé en **C++** en utilisant l'algorithme de Dijkstra. Ce protocole permet de trouver le chemin avec le coût énergétique minimal entre une source et une destination, maximisant ainsi l'efficacité énergétique du réseau. Mon programme s'est révélé très performant pour améliorer la gestion des ressources énergétiques et prolonger la durée de vie des capteurs, ce qui est particulièrement utile dans des environnements où le remplacement des batteries est impossible.
 ![minimiser l'energie dans les capteurs sans fil](/assets/photo5.png)
 
