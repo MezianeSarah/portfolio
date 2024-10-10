@@ -13,7 +13,9 @@
 #### **Enseignante de Mathématiques**  
 Direction de l'Éducation, Béjaïa, Algérie  
 - Enseignante vacataire en mathématiques au lycée.
-  Septembre 2021 - Juillet 2022  
+  Septembre 2021 - Juillet 2022
+
+  
 #### **Stage Pratique**  
 Société Nationale SONATRACH/TRC, Béjaïa, Algérie  
 - Stage sur le thème **"Gestion de projets"**, axé sur la planification et le suivi des activités dans le secteur énergétique pétrolier en utilisant Microsoft Project.
