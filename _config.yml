@@ -1,5 +1,7 @@
 title: Meziane Sarah
 logo: /assets/sarah.jpg
+logo_height: 150  # Si le thème le prend en charge
+logo_width: 150   # Si le thème le prend en charge
 show_downloads: true
 
 theme: jekyll-theme-minimal
