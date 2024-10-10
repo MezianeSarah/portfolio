@@ -3,7 +3,11 @@
 **Contact:**  
 **Email**: mezianesarah111@gmail.com  
 **LinkedIn**: [Sarah Meziane](https://linkedin.com/in/mezianesarah)  
+
+
 ---
+
+
 **Compétences Techniques:**  
 **Langages de Programmation**: Python, Java, C++, SQL  
 **Outils**: MATLAB, Microsoft Excel, Microsoft Project  
@@ -42,8 +46,11 @@ Stage sur le thème **"Gestion de projets"**, axé sur la planification et le su
 - **Baccalauréat en Mathématiques**  
   Lycée Mohamed Boudiaf, Béjaïa  
   2014-2015
+  
 
  ---
+
+
  
 ## Projets
 
