@@ -54,16 +54,49 @@ Stage sur le thème **"Gestion de projets"**, axé sur la planification et le su
  
 ## Projets
 
--   [problème d’optimisation d’énergie dans les réseaux de capteurs sans fil](https://github.com/MezianeSarah/probleme-d-optimisation) :
+### Projet 1 : Optimisation de l'Énergie dans les Réseaux de Capteurs Sans Fil
 
-      Dans le cadre de mon projet de Master 2 en **Recherche Opérationnelle**, j'ai étudié l'optimisation de la consommation d'énergie dans les réseaux de capteurs sans fil (RCSF). Ces réseaux jouent un rôle crucial dans de nombreux domaines, tels que la surveillance militaire, les applications médicales, la sécurité des infrastructures et la gestion environnementale. Grâce à leur capacité à surveiller des environnements distants ou inaccessibles, ils sont devenus essentiels pour le suivi en temps réel et la collecte de données.
-![les applications des capteurs sans fil](/assets/apppp.png)
+**Lien GitHub :** [Optimisation de l’énergie dans les réseaux de capteurs sans fil](https://github.com/MezianeSarah/probleme-d-optimisation)
 
-      J'ai implémenté un protocole de routage optimisé en **C++** en utilisant l'algorithme de Dijkstra. Ce protocole permet de trouver le chemin avec le coût énergétique minimal entre une source et une destination, maximisant ainsi l'efficacité énergétique du réseau. Mon programme s'est révélé très performant pour améliorer la gestion des ressources énergétiques et prolonger la durée de vie des capteurs, ce qui est particulièrement utile dans des environnements où le remplacement des batteries est impossible.
-![minimiser l'energie dans les capteurs sans fil](/assets/photo5.png)
+**Description :**  
+Ce projet, réalisé dans le cadre de mon Master en **Recherche Opérationnelle**, porte sur l'optimisation de la consommation d'énergie dans les réseaux de capteurs sans fil (RCSF). Ces réseaux jouent un rôle essentiel dans divers domaines tels que la surveillance militaire, les applications médicales, la sécurité des infrastructures et la gestion environnementale grâce à leur capacité à opérer dans des zones éloignées ou difficilement accessibles et à fournir des données en temps réel.
+
+**Illustrations :**  
+- Applications des Capteurs Sans Fil :  
+  ![Applications des capteurs sans fil](/assets/apppp.png)
+  
+**Objectif :**  
+J’ai implémenté un protocole de routage optimisé en **C++** en utilisant l'algorithme de Dijkstra. Ce protocole identifie le chemin avec le coût énergétique minimal entre une source et une destination, maximisant ainsi l'efficacité énergétique du réseau. Cette optimisation contribue à prolonger la durée de vie des capteurs, particulièrement utile dans des environnements où le remplacement des batteries est impossible.
+- Minimisation de l'Énergie dans les RCSF :  
+  ![Minimisation de l'énergie dans les réseaux de capteurs sans fil](/assets/photo5.png)
+
+**Contributions Clés :**
+- Conception et mise en œuvre d'un protocole de routage minimisant la consommation énergétique dans les RCSF.
+- Amélioration de la gestion des ressources du réseau et extension de la durée de vie des capteurs grâce à une sélection de chemins plus efficace.
+
+  
+---
+
+### Projet 2 : Analyse par Éléments Finis
+
+**Lien GitHub :** [Éléments Finis](https://github.com/MezianeSarah/Elements_finis)
+
+**Description :**  
+Ce projet porte sur la résolution de problèmes aux limites en utilisant des équations différentielles sur l'intervalle ouvert \( ]0,1[ \). J'ai appliqué la méthode des éléments finis (FEM) pour discrétiser le problème et développé des maillages uniformes et non-uniformes en **Python**.
+
+**Objectif :**  
+L'objectif était de vérifier que \( u(x) = \sin(\pi x^2) \) est la solution exacte du système discrétisé. Ce projet a renforcé ma compréhension de la méthode des éléments finis, en particulier en ce qui concerne l'impact du choix du maillage sur la précision des approximations.
+
+**Contributions Clés :**
+- Application de la méthode des éléments finis pour résoudre des problèmes aux limites, avec un accent sur l’influence du type de maillage.
+- Développement de compétences en analyse numérique et en développement logiciel pour la résolution d'équations différentielles.
 
 
--  [Elements finis](https://github.com/MezianeSarah/Elements_finis) :
-  Ce projet porte sur la résolution d'un problème aux limites en utilisant les équations différentielles sur l'intervalle ouvert ]0,1[]0,1[. Nous avons discretisé le problème à l'aide de la méthode des éléments finis, en programmant des maillages uniformes et non-uniformes en Python.
 
-Nous avons prouvé que la fonction u(x)=sin⁡(πx2)u(x)=sin(πx2) était la solution exacte du système discretisé. Ce projet a renforcé notre compréhension de la méthode des éléments finis, des systèmes linéaires associés et a mis en évidence l'impact du maillage sur la précision des approximations. La programmation de ces méthodes nous a permis de développer nos compétences en analyse numérique et en développement logiciel.
+
+
+
+
+
+
+
