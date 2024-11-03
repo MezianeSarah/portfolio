@@ -9,7 +9,7 @@
 
 
 **Compétences Techniques:**  
-**Langages de Programmation**: Python, Java, C++, SQL  
+**Langages de Programmation**: Python, C++, SQL  
 **Outils**: MATLAB, Microsoft Excel, Microsoft Project  
 
 --- 
