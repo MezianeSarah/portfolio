@@ -1,4 +1,4 @@
-# Portfolio de Sarah Meziane
+# Portfolio 
 
 Bienvenue dans mon portfolio ! Ce repository présente mes compétences, projets, et réalisations en modélisation mathématique, optimisation et analyse numérique.
 
