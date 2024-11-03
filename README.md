@@ -55,12 +55,13 @@ Stage sur le thème **"Gestion de projets"**, axé sur la planification et le su
 **Description :**  
 Ce projet, réalisé dans le cadre de mon Master en **Recherche Opérationnelle**, porte sur l'optimisation de la consommation d'énergie dans les réseaux de capteurs sans fil (RCSF). Ces réseaux jouent un rôle essentiel dans divers domaines tels que la surveillance militaire, les applications médicales, la sécurité des infrastructures, et la gestion environnementale, grâce à leur capacité à opérer dans des zones éloignées ou difficilement accessibles et à fournir des données en temps réel.
 
-**Objectif :**  
-J’ai implémenté un protocole de routage optimisé en **C++** en utilisant l'algorithme de Dijkstra. Ce protocole identifie le chemin avec le coût énergétique minimal entre une source et une destination, maximisant ainsi l'efficacité énergétique du réseau. Cette optimisation contribue à prolonger la durée de vie des capteurs, ce qui est particulièrement utile dans des environnements où le remplacement des batteries est impossible.
-
 **Illustrations :**  
 - Applications des Capteurs Sans Fil :  
   ![Applications des capteurs sans fil](/assets/apppp.png)
+
+**Objectif :**  
+J’ai implémenté un protocole de routage optimisé en **C++** en utilisant l'algorithme de Dijkstra. Ce protocole identifie le chemin avec le coût énergétique minimal entre une source et une destination, maximisant ainsi l'efficacité énergétique du réseau. Cette optimisation contribue à prolonger la durée de vie des capteurs, ce qui est particulièrement utile dans des environnements où le remplacement des batteries est impossible.
+
   
 - Minimisation de l'Énergie dans les RCSF :  
   ![Minimisation de l'énergie dans les réseaux de capteurs sans fil](/assets/photo5.png)
