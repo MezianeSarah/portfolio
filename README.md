@@ -7,7 +7,11 @@ Bienvenue dans mon portfolio ! Ce repository présente mes compétences, projets
 ## À propos de moi
 
 Actuellement en Master 2 de Modélisation et Analyse Numérique à l'UFR des Sciences de l'Université de Montpellier, je suis passionnée par l'application des mathématiques pour résoudre des problèmes complexes. Avec un parcours préalable en Recherche Opérationnelle et Modélisation Mathématique, j'ai acquis des compétences approfondies en aide à la décision et en analyse numérique. Mes projets incluent des travaux en optimisation énergétique et des solutions numériques basées sur la méthode des éléments finis.
+
+
 ---
+
+
 **Contact :**  
 **Email** : mezianesarah111@gmail.com  
 **LinkedIn** : [Sarah Meziane](https://linkedin.com/in/mezianesarah)  
