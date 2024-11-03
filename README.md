@@ -14,7 +14,7 @@ Actuellement en Master 2 de Modélisation et Analyse Numérique à l'UFR des Sci
 
 **Contact :**  
 **Email** : mezianesarah111@gmail.com  
-**LinkedIn** : [Sarah Meziane](https://linkedin.com/in/mezianesarah)  
+**LinkedIn** : [Sarah meziane](https://linkedin.com/in/mezianesarah)  
 
 ---
 
