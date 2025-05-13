@@ -28,8 +28,8 @@ Actuellement en Master 2 de Modélisation et Analyse Numérique à l'UFR des Sci
 #### **Stage de recherche – INRAE Montpellier**
 Étude numérique de la simulation des fractures de bois  au niveau cellulaire
  - Utilisation de méthodes numériques et modèles mécaniques pour simuler la
-   rupture du matériau bois
- - Outils : Python, simulations , traitement de données scientifiques
+   rupture du matériau bois.
+ - Outils : Python, simulations , traitement de données scientifiques.
  **Mars - en cours**
 
 
