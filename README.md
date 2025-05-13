@@ -111,7 +111,7 @@ L'objectif était de vérifier que \( u(x) = \sin(\pi x^2) \) est la solution ex
 
 ### Projet 3 : Simulation de la fracture du bois à l’échelle cellulaire (Stage INRAE)
 
-**Lien GitHub :** [Simulation Bois - Pérydinamique](https://github.com/MezianeSarah/simulation_bois)  
+**Lien GitHub :** [Simulation Bois - Pérydinamique](https://github.com/MezianeSarah/Stage-inrae)  
 
 
 **Description :**  
