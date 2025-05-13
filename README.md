@@ -106,3 +106,26 @@ L'objectif était de vérifier que \( u(x) = \sin(\pi x^2) \) est la solution ex
 **Contributions Clés :**
 - Application de la méthode des éléments finis pour résoudre des problèmes aux limites, avec un accent sur l’influence du type de maillage.
 - Développement de compétences en analyse numérique et en développement logiciel pour la résolution d'équations différentielles.
+
+---
+
+### Projet 3 : Simulation de la fracture du bois à l’échelle cellulaire (Stage INRAE)
+
+**Lien GitHub :** [Simulation Bois - Pérydinamique](https://github.com/MezianeSarah/simulation_bois)  
+
+
+**Description :**  
+Ce projet est en cours dans le cadre de mon stage de fin d’études (Master 2) à l’INRAE et à l’Université de Montpellier.  
+Il porte sur la **simulation de la rupture du bois à l’échelle cellulaire**, en utilisant la **méthode pérydinamique**, une approche non locale adaptée à la modélisation de fissures complexes.  
+Les microstructures du bois sont modélisées par des **diagrammes de Voronoï** (hexagonaux et irréguliers), et comparées à des **images réelles obtenues par microscopie**.
+
+**Objectif :**  
+Simuler l’initiation et la propagation de fissures dans des structures alvéolaires, puis **comparer les propriétés mécaniques simulées (comme le module de Young)** aux prévisions du modèle théorique de **Gibson-Ashby**.
+
+**Contributions Clés :**
+- Génération de structures Voronoï (hexagonales et irrégulières) pour modéliser les cellules du bois.
+- Implémentation de la **méthode bond-based pérydinamique** pour simuler la rupture des liaisons intercellulaires.
+- Traitement d’**images microscopiques réelles** du bois pour extraire des structures cellulaires naturelles.
+- Analyse et comparaison du **module de Young simulé** avec les prédictions théoriques (Gibson-Ashby).
+
+
